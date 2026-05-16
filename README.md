@@ -4,6 +4,9 @@ Welcome to **Hivion**, a modern, feature-rich blog platform that combines beauti
 
 **#Live Link**
 "hivionblog-1n3k50710-khanayan97553-gmailcoms-projects.vercel.app"
+#for Admin Access
+Email ==> "admin123@gmail.com"
+password ==> "Admin@123"
 ---
 ## 🚀 Getting Started as a User
 
@@ -21,7 +24,7 @@ Welcome to **Hivion**, a modern, feature-rich blog platform that combines beauti
 
 ### Logging In
 1. Click **Login** in the navbar
-2. Enter your credentials
+2. Enter your credential
 3. You'll be taken to your dashboard
 
 ### Publishing Your First Post
